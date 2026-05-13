@@ -192,29 +192,29 @@ user_pref("layout.word_select.eat_space_to_next_word", false);
 // visit https://github.com/yokoffing/Betterfox/wiki/Optional-Hardening
 // Enter your personal overrides below this line:
 
-// user_pref("browser.newtabpage.activity-stream.feeds.topsites", false);
-// user_pref("browser.newtabpage.activity-stream.showSearch", false);
-// user_pref("browser.newtabpage.activity-stream.showWeather", false);
-// user_pref("browser.newtabpage.enabled", false);
-// user_pref("browser.search.separatePrivateDefault", false);
-// user_pref("browser.startup.homepage", "chrome://browser/content/blanktab.html");
-// user_pref("browser.startup.page", 3);
-// user_pref("browser.tabs.closeWindowWithLastTab", false);
-// user_pref("browser.toolbars.bookmarks.visibility", "never");
-// user_pref("browser.uiCustomization.state", "{\"placements\":{\"widget-overflow-fixed-list\":[],\"unified-extensions-area\":[\"ublock0_raymondhill_net-browser-action\",\"chrome-mask_overengineer_dev-browser-action\",\"_446900e4-71c2-419f-a6a7-df9c091e268b_-browser-action\",\"display-anchors_robwu_nl-browser-action\",\"_ddc359d1-844a-42a7-9aa1-88a850a938a8_-browser-action\",\"foxytab_eros_man-browser-action\",\"_154cddeb-4c8b-4627-a478-c7e5b427ffdf_-browser-action\",\"78272b6fa58f4a1abaac99321d503a20_proton_me-browser-action\",\"_52bda3fd-dc48-4b3d-a7b9-58af57879f1e_-browser-action\",\"_b9db16a4-6edc-47ec-a1f4-b86292ed211d_-browser-action\",\"zotero_chnm_gmu_edu-browser-action\"],\"nav-bar\":[\"back-button\",\"forward-button\",\"vertical-spacer\",\"urlbar-container\",\"vpn_proton_ch-browser-action\",\"downloads-button\",\"reset-pbm-toolbar-button\",\"screenshot-button\",\"unified-extensions-button\"],\"toolbar-menubar\":[\"menubar-items\"],\"TabsToolbar\":[\"firefox-view-button\",\"tabbrowser-tabs\",\"new-tab-button\",\"alltabs-button\"],\"vertical-tabs\":[],\"PersonalToolbar\":[\"import-button\",\"personal-bookmarks\"]},\"seen\":[\"reset-pbm-toolbar-button\",\"developer-button\",\"screenshot-button\",\"_446900e4-71c2-419f-a6a7-df9c091e268b_-browser-action\",\"chrome-mask_overengineer_dev-browser-action\",\"display-anchors_robwu_nl-browser-action\",\"_ddc359d1-844a-42a7-9aa1-88a850a938a8_-browser-action\",\"foxytab_eros_man-browser-action\",\"_154cddeb-4c8b-4627-a478-c7e5b427ffdf_-browser-action\",\"78272b6fa58f4a1abaac99321d503a20_proton_me-browser-action\",\"ublock0_raymondhill_net-browser-action\",\"_52bda3fd-dc48-4b3d-a7b9-58af57879f1e_-browser-action\",\"_b9db16a4-6edc-47ec-a1f4-b86292ed211d_-browser-action\",\"zotero_chnm_gmu_edu-browser-action\",\"vpn_proton_ch-browser-action\"],\"dirtyAreaCache\":[\"nav-bar\",\"vertical-tabs\",\"PersonalToolbar\",\"unified-extensions-area\",\"toolbar-menubar\",\"TabsToolbar\"],\"currentVersion\":23,\"newElementCount\":6}");
-// user_pref("browser.uidensity", 1);
-// user_pref("devtools.chrome.enabled", true);
-// user_pref("devtools.debugger.remote-enabled", true);
-// user_pref("extensions.formautofill.addresses.enabled", false);
-// user_pref("extensions.formautofill.addresses.enabled", true);
-// user_pref("extensions.formautofill.creditCards.enabled", false);
-// user_pref("privacy.trackingprotection.allow_list.convenience.enabled", true);
-// user_pref("sidebar.position_start", false);
-// user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
-// user_pref("ui.key.menuAccessKey", "");
-// user_pref("ui.key.menuAccessKeyFocuses", false);
-// user_pref("view_source.wrap_long_lines", true);
-// user_pref("sidebar.revamp", false);
+user_pref("browser.newtabpage.activity-stream.feeds.topsites", false);
+user_pref("browser.newtabpage.activity-stream.showSearch", false);
+user_pref("browser.newtabpage.activity-stream.showWeather", false);
+user_pref("browser.newtabpage.enabled", false);
+user_pref("browser.search.separatePrivateDefault", false);
+user_pref("browser.startup.homepage", "chrome://browser/content/blanktab.html");
+user_pref("browser.startup.page", 3);
+user_pref("browser.tabs.closeWindowWithLastTab", false);
+user_pref("browser.toolbars.bookmarks.visibility", "never");
+user_pref("browser.uiCustomization.state", "{\"placements\":{\"widget-overflow-fixed-list\":[],\"unified-extensions-area\":[\"ublock0_raymondhill_net-browser-action\",\"chrome-mask_overengineer_dev-browser-action\",\"_446900e4-71c2-419f-a6a7-df9c091e268b_-browser-action\",\"display-anchors_robwu_nl-browser-action\",\"_ddc359d1-844a-42a7-9aa1-88a850a938a8_-browser-action\",\"foxytab_eros_man-browser-action\",\"_154cddeb-4c8b-4627-a478-c7e5b427ffdf_-browser-action\",\"78272b6fa58f4a1abaac99321d503a20_proton_me-browser-action\",\"_52bda3fd-dc48-4b3d-a7b9-58af57879f1e_-browser-action\",\"_b9db16a4-6edc-47ec-a1f4-b86292ed211d_-browser-action\",\"zotero_chnm_gmu_edu-browser-action\"],\"nav-bar\":[\"back-button\",\"forward-button\",\"vertical-spacer\",\"urlbar-container\",\"vpn_proton_ch-browser-action\",\"downloads-button\",\"reset-pbm-toolbar-button\",\"screenshot-button\",\"unified-extensions-button\"],\"toolbar-menubar\":[\"menubar-items\"],\"TabsToolbar\":[\"firefox-view-button\",\"tabbrowser-tabs\",\"new-tab-button\",\"alltabs-button\"],\"vertical-tabs\":[],\"PersonalToolbar\":[\"import-button\",\"personal-bookmarks\"]},\"seen\":[\"reset-pbm-toolbar-button\",\"developer-button\",\"screenshot-button\",\"_446900e4-71c2-419f-a6a7-df9c091e268b_-browser-action\",\"chrome-mask_overengineer_dev-browser-action\",\"display-anchors_robwu_nl-browser-action\",\"_ddc359d1-844a-42a7-9aa1-88a850a938a8_-browser-action\",\"foxytab_eros_man-browser-action\",\"_154cddeb-4c8b-4627-a478-c7e5b427ffdf_-browser-action\",\"78272b6fa58f4a1abaac99321d503a20_proton_me-browser-action\",\"ublock0_raymondhill_net-browser-action\",\"_52bda3fd-dc48-4b3d-a7b9-58af57879f1e_-browser-action\",\"_b9db16a4-6edc-47ec-a1f4-b86292ed211d_-browser-action\",\"zotero_chnm_gmu_edu-browser-action\",\"vpn_proton_ch-browser-action\"],\"dirtyAreaCache\":[\"nav-bar\",\"vertical-tabs\",\"PersonalToolbar\",\"unified-extensions-area\",\"toolbar-menubar\",\"TabsToolbar\"],\"currentVersion\":23,\"newElementCount\":6}");
+user_pref("browser.uidensity", 1);
+user_pref("devtools.chrome.enabled", true);
+user_pref("devtools.debugger.remote-enabled", true);
+user_pref("extensions.formautofill.addresses.enabled", false);
+user_pref("extensions.formautofill.addresses.enabled", true);
+user_pref("extensions.formautofill.creditCards.enabled", false);
+user_pref("privacy.trackingprotection.allow_list.convenience.enabled", true);
+user_pref("sidebar.position_start", false);
+user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
+user_pref("ui.key.menuAccessKey", "");
+user_pref("ui.key.menuAccessKeyFocuses", false);
+user_pref("view_source.wrap_long_lines", true);
+user_pref("sidebar.revamp", false);
 
 /****************************************************************************
  * END: BETTERFOX                                                           *
